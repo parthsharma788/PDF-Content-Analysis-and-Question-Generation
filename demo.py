@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 PDF Content Extractor - Demo Script
 Demonstrates the usage of the PDF extraction tool
